@@ -7,15 +7,9 @@
 
 ## About Me
 
-I'm a passionate developer focused on building scalable web applications using the MERN stack and mastering Data Structures & Algorithms. I love solving complex problems and continuously learning new technologies to stay ahead in the tech industry.
+At Victrix Inc., as a Software Engineer, I contribute to developing and maintaining high-scale event-driven architectures, enabling reliable communication and processing over 1.5 million daily events across distributed systems. My work includes transforming batch workflows into real-time streaming pipelines, implementing change data capture (CDC) patterns, and ensuring data consistency through innovative solutions like the Outbox pattern and Kafka integration.  
 
-- 🔭 I'm currently Studying in **Netaji Subhas University of Technology**
-
-- 🌱 I'm currently learning **Competitive Coding**
-
-- 👨‍💻 All of my projects are available at [https://raghvendrasinghsengar.netlify.app](https://raghvendrasinghsengar.netlify.app)
-
-- 💬 Ask me about **MERN Stack**
+A BTech graduate in Electronics and Communications Engineering from Netaji Subhas University of Technology, I bring a solid foundation in backend development and system design. I focus on scalability, reliability, and fault tolerance in high-performance environments, leveraging advanced tools such as Java, Spring Boot, and Kafka to address complex challenges in modern software systems.
 
 - 📫 How to reach me **rv.singh.s.5330@gmail.com**
 
